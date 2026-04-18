@@ -1,0 +1,2 @@
+# self_skills
+自己开发过程中遇到的问题和工具安装总结skills
